@@ -43,5 +43,9 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.scottyab:rootbeer:0.1.0'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    // implementation 'com.github.scottyab:rootbeer:0.0.1' // <- Disable this line
+
+    // Add this line to support 16 KB page size:
+    implementation 'com.scottyab:rootbeer-lib:0.1.1'
 }
