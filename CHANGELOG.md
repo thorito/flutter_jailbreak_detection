@@ -1,3 +1,7 @@
+## 1.11.0
+
+* Migrate iOS example app to Swift, multi-scene support, and FlutterImplicitEngineDelegate.
+
 ## 1.8.0
 
 * Upgrade android embedding
