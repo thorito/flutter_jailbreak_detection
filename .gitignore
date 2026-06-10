@@ -31,3 +31,4 @@ build/
 hs_err_pid*
 
 example/.flutter-plugins-dependencies
+.pi/
